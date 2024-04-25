@@ -70,17 +70,17 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
-    avatar: "/avatar_self.webp",
+    name: "涟漪",
+    avatar: "/avatar_self.jpg",
     description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
+      GitHub: "https://github.com/Elaineyi-2028",
       Zhihu: "https://www.zhihu.com/people/qingwhat",
       少数派: ["https://sspai.com/u/zqj05i4v/posts", "./docs/.vuepress/icons/sspai.svg"],
       Wechat: "https://img.newzone.top/wechat.svg",
-      Email: "mailto:learndata@newzone.top",
+      Email: "Elaineyi2028@gmail.com",
       Discord: "https://discord.gg/PZTQfJ4GjX",
       RSS: "/rss.xml",
     },
