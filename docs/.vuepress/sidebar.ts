@@ -8,6 +8,28 @@ export default sidebar({
     "/Fitness",
     // 读书笔记架构更换到 docsify，不能使用相对链接
     { text: "读书笔记", icon: "fa-brands fa-readme", link: "https://newzone.top/reading/" },
+    //研究笔记
+    {
+      text: "💡 科研笔记",
+      icon: "",
+      prefix: "/research/",
+      collapsible: true,
+      children: [
+        "README.md",
+        {
+          text: "Foundation",
+          icon: "fa-solid fa-cube",
+          collapsible: true,
+          children: ["HPC.md", "RDMA.md"],
+        },
+        {
+          text: "Paper",
+          icon: "fa-solid fa-object-group",
+          collapsible: true,
+          children: ["paper.md"],
+        },
+      ],
+    },
     // 指定显示页面
     {
       text: "🧰 应用手册",
