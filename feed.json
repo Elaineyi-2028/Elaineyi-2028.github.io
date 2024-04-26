@@ -10,13 +10,13 @@
       "title": "初心",
       "url": "https://newzone.top/posts/2024-03-01-blog_example.html",
       "id": "https://newzone.top/posts/2024-03-01-blog_example.html",
-      "summary": "博客文章内容，支持 Markdown 和 HTML 语言。",
-      "content_html": "<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>\n",
+      "summary": "😎begin again 笔记的意义是帮助我们产生新的灵感。 曾经，我使用过许多记录软件：Notion、飞书、Flomo、CSDN、Typora等等。但很容易出现记录之后不想回看，多平台记录导致笔记之间无法及时产生联系等问题，这让我打开软件记笔记和输出良好内容的摩擦力很大，于是我下定决心逐步制作一个自己的网站。 由于目前的编程能力比较弱，在网上搜索小...",
+      "content_html": "\n<p><strong>笔记的意义是帮助我们产生新的灵感。</strong></p>\n<p>曾经，我使用过许多记录软件：Notion、飞书、Flomo、CSDN、Typora等等。但很容易出现记录之后不想回看，多平台记录导致笔记之间无法及时产生联系等问题，这让我打开软件记笔记和输出良好内容的摩擦力很大，于是我下定决心逐步制作一个自己的网站。</p>\n<p>由于目前的编程能力比较弱，在网上搜索小白可以直接魔改的网站模板，非常幸运地发现了大佬的网站 <strong><a href=\"https://newzone.top/\" target=\"_blank\" rel=\"noopener noreferrer\">LearnData</a></strong>，在这里我不仅找到了搭建自己网站的方法，还发现了大佬找到的与我的生活问题也有关的一些答案，当然这是属于大佬的答案，因为我还没有验证是否是属于自己的答案。</p>\n<p>那么接下来，走着吧~</p>\n",
       "date_published": "2024-04-25T00:00:00.000Z",
-      "date_modified": "2024-04-25T10:54:42.000Z",
+      "date_modified": "2024-04-26T05:53:49.000Z",
       "authors": [],
       "tags": [
-        "使用指南"
+        "写在前面"
       ]
     },
     {
