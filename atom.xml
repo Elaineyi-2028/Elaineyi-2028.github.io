@@ -4,7 +4,7 @@
   <title>LearnData 开源笔记</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2024-04-25T14:23:19.229Z</updated>
+  <updated>2024-04-26T05:05:37.668Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -49,10 +49,14 @@
     <title type="text">RDMA</title>
     <id>https://newzone.top/research/RDMA.html</id>
     <link href="https://newzone.top/research/RDMA.html"/>
-    <updated>2024-04-25T14:22:23.000Z</updated>
+    <updated>2024-04-26T05:04:40.000Z</updated>
     <summary type="html"><![CDATA[
+<h2>remote directly memory access</h2>
+<p>hello</p>
 ]]></summary>
     <content type="html"><![CDATA[
+<h2>remote directly memory access</h2>
+<p>hello</p>
 ]]></content>
     <published>2024-04-25T14:22:23.000Z</published>
   </entry>
