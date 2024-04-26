@@ -72,7 +72,7 @@ export default hopeTheme({
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
     name: "涟漪",
     avatar: "/avatar_self.jpg",
-    description: "迷信生活，热衷于研究高性能计算、心理学理论，定期分享探索成果",
+    description: "迷信快乐生活，热衷于研究高性能计算、心理学理论，定期分享探索成果",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
