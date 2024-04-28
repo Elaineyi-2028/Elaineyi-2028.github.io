@@ -4,7 +4,7 @@
   <title>LearnData 开源笔记</title>
   <subtitle>科研记录、开源工具、效率方法、自我提升の笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2024-04-26T06:23:36.088Z</updated>
+  <updated>2024-04-28T04:03:36.750Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/"/>
@@ -39,42 +39,5 @@
 ]]></content>
     <category term="工具"/>
     <published>2024-03-02T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">高性能互联网络之RDMA</title>
-    <id>https://newzone.top/research/HPC.html</id>
-    <link href="https://newzone.top/research/HPC.html"/>
-    <updated>2024-04-25T14:22:23.000Z</updated>
-    <summary type="html"><![CDATA[
-]]></summary>
-    <content type="html"><![CDATA[
-]]></content>
-    <published>2024-04-25T14:22:23.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">RDMA</title>
-    <id>https://newzone.top/research/RDMA.html</id>
-    <link href="https://newzone.top/research/RDMA.html"/>
-    <updated>2024-04-26T05:04:40.000Z</updated>
-    <summary type="html"><![CDATA[
-<h2>remote directly memory access</h2>
-<p>hello</p>
-]]></summary>
-    <content type="html"><![CDATA[
-<h2>remote directly memory access</h2>
-<p>hello</p>
-]]></content>
-    <published>2024-04-25T14:22:23.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Research accumulation</title>
-    <id>https://newzone.top/research/paper.html</id>
-    <link href="https://newzone.top/research/paper.html"/>
-    <updated>2024-04-25T14:22:23.000Z</updated>
-    <summary type="html"><![CDATA[
-]]></summary>
-    <content type="html"><![CDATA[
-]]></content>
-    <published>2024-04-25T14:22:23.000Z</published>
   </entry>
 </feed>
